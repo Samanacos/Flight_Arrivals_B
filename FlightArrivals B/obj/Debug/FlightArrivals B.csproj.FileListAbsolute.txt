@@ -1,0 +1,10 @@
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\bin\Debug\FlightArrivals B.exe.config
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\bin\Debug\FlightArrivals B.exe
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\bin\Debug\FlightArrivals B.pdb
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals B.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals_B.Form1.resources
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals_B.Properties.Resources.resources
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals B.csproj.GenerateResource.cache
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals B.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals B.exe
+D:\University 2020-2021\C#\Week 9 !\FlightArrivals B\obj\Debug\FlightArrivals B.pdb
